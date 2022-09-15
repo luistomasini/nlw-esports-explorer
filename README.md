@@ -2,5 +2,5 @@
 Semana NLW Esports da Rocketseat
 
 <ul>
-  <li><a href="https://nlw-rocketseat/index.html">Nlw Rocketseat</li>
+  <li><a href="https://github.com/luistomasini/nlw-rocketseat/blob/main/index.html">Nlw Rocketseat</li>
 </ul>
