@@ -8,6 +8,10 @@ Projeto construído do evento Next Level Week da Rocketseat.
 
 🔗 [Clique aqui para acessar](https://luistomasini.github.io/nlw-esports-explorer)
 
+Desafio proposto
+
+🔗 [Clique aqui para acessar](https://luistomasini.github.io/nlw-esports-explorer/desafio)
+
 ## 🚀 Tecnologias
 
 - HTML
