@@ -44,4 +44,4 @@ Projeto construído do evento Next Level Week da Rocketseat.
 - icq: 19876890
 - msn: Hellraiser_16
 - orkut: Luis Tomasini
-- also smoke signal.
+- sinal de fumaça também.
